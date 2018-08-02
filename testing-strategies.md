@@ -1,5 +1,8 @@
 # Notes on testing strategies
 
+These are my notes about Testing Strategies for the above skill in the Tes Skills Map. I thought I share it here. 
+Enjoy. :)
+Edit Olah
 
 ## Skill in Skills Map:
 Name:
@@ -12,10 +15,6 @@ Questions:
 * Can you quantify the benefits or drawbacks of the various test types?
 * Can you explain why we don't follow the test pyramid and where we should?
 * Do you understand the difference between testing outcomes (yay!) vs interactions (boo)?
-
-These are my notes about Testing Strategies for the above skill in the Tes Skills Map. I thought I share it here. 
-Enjoy. :)
-Edit Olah
 
 
 ## Basics about test types
