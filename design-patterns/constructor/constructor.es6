@@ -103,7 +103,7 @@ jag.detailsToString === merc.detailsToString;
 
 class Transformer extends ClassyCar {
     constructor({name, year, miles, model}) {
-        super({year, miles, model}); // this is where we invoke the contructor of the parent class
+        super({year, miles, model}); // this is where we invoke the constructor of the parent class
         this.name = name;
     }
 
