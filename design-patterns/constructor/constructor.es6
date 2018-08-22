@@ -1,3 +1,4 @@
+// Video link to presentation here: https://api.zoom.us/recording/play/XhcIf9Wz6dHD96sCpcNgdWjKaFOyGdPpYd4Rfph6uV9jkbUYx2s3t4wRO0_TTSMg
 // ************ Copy and paste the values into node to follow along for extra fun! *********
 
 // The Basics
